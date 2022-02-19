@@ -1,0 +1,65 @@
+
+body{
+     background: rgb(192, 213, 245);
+     font-family: 'Varela Round', sans-serif,'Poiret One', cursive;
+}
+.clouds{
+    width:30%;
+    margin-left: auto;
+}
+.cloud{
+    width:30%;
+    margin-left: 20%;
+}
+.program{
+    width:20%;
+    margin-left: 40%;
+    float: right;
+    margin-left: 30px;
+}
+.chili{
+    width:20%;
+    float: left;
+    margin-right: 30px;
+}
+.photo{
+    width: 30%;
+    margin-left: 35%;
+}
+.contact-me{
+     text-align: center;
+}
+.bottom-container{
+    text-align: center;
+}
+span{
+    width:5 rem;
+    margin-left: 25%;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.hills{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0%;
+}
+.third-container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.second-container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.first-container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
