@@ -70,3 +70,25 @@ h1{
     margin: 100px auto 100px auto;
     line-height: 2;
 }
+a{
+    text-decoration: none;
+    margin: 5px;
+}
+.bottom-containers{
+    margin-right: 5%;
+}
+.git{
+    padding-left: 3.1%;
+    margin-bottom: 0.5%;
+}
+.link{
+    padding-left: 2%;
+}
+.chef{
+    margin-left: 2.1%;
+    margin-bottom: 0.5%;
+}
+.hack{
+    margin-left: 2%;
+    margin-bottom: 0.5%;
+}
